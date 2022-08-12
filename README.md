@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlphaMAtrix69(New bee)
-- 👀 I’m interested in Cybersecurity
+- 👋 Hi, I’m @AlphaMAtrix69
+- 👀 I’m interested in Cybersecurity(New bee)
 - 🌱 I’m currently learning linux
 - 📫 How to reach me https://twitter.com/CyberBull10
 
