@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AlphaMAtrix69
-- 👀 I’m interested in Cybersecurity(New bee)
-- 🌱 I’m currently learning linux
-- 📫 How to reach me https://twitter.com/CyberBull10
 
 <!---
 AlphaMAtrix69/AlphaMAtrix69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
